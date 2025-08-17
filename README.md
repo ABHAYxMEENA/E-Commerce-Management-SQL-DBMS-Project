@@ -1,6 +1,3 @@
-
-
-
 <h1 style="text-align: center">      Ecommerce Database Management System       </h1>
 
 For practising SQL and DBMS, I made this project for Database Management Systems (DBMS)<br>
